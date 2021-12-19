@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amin&amp;Ajin</title>
-    <link>https://yifengbean.com/</link>
-    <description>Recent content on Amin&amp;Ajin</description>
+    <title>Blogs on Amin&amp;Ajin</title>
+    <link>https://yifengbean.com/blog/</link>
+    <description>Recent content in Blogs on Amin&amp;Ajin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yifengbean.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://yifengbean.com/amin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifengbean.com/amin/</guid>
-      <description>#Amin ##portrait </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://yifengbean.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merry Christmas My DEAR DEER Amin</title>
       <link>https://yifengbean.com/blog/merry-christmas-my-dear-deer-amin/</link>
