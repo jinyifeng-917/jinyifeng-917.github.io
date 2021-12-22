@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.yifengbean.com/</loc>
-    <lastmod>2021-12-20T20:46:49-06:00</lastmod>
-  </url><url>
     <loc>https://www.yifengbean.com/post/</loc>
     <lastmod>2021-12-20T20:46:49-06:00</lastmod>
   </url><url>
@@ -160,6 +157,13 @@
   </url><url>
     <loc>https://www.yifengbean.com/%E4%BA%8C%E5%8D%81/</loc>
     <lastmod>2021-06-20T20:46:49-06:00</lastmod>
+  </url><url>
+    <loc>https://www.yifengbean.com/</loc>
+    <lastmod>2020-12-14T18:27:58+01:00</lastmod>
+  </url><url>
+    <loc>https://www.yifengbean.com/tags/garments/</loc>
+  </url><url>
+    <loc>https://www.yifengbean.com/garments/</loc>
   </url><url>
     <loc>https://www.yifengbean.com/merry-christmas-my-dear-deer-amin/</loc>
   </url><url>
